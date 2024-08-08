@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maymk
 - 👀 I’m interested in mathematics, particularly mathematics for business students
-- 🌱 I’m currently learning how to use githun
+- 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on CRAFTY compliant material for teaching business students math
 - 📫 How to reach me via email mike.may@slu.edu
 
